@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1">
+<listeners>
+	<listener class-name="com.qa.atlasoil.reports.listener.Weblisteners"/>
+</listeners>
+<test name="RestAssured_API_Test_for_Errorcreation_EmptyDtFile">
+    <classes>
+      <class name="com.qa.atlasoil.restassured.testsuite.Errorcreation_EmptyDtFile"/>
+    </classes>
+  </test>
+ <test name="RestAssured_API_Test_for_Errorcreation_EmptyDtFileType">
+    <classes>
+      <class name="com.qa.atlasoil.restassured.testsuite.Errorcreation_EmptyDtFileType"/>
+    </classes>
+  </test>
+ 	<test name="Search,Details,Delete,DeleteAll">
+      <classes>
+       <class name="com.qa.atlasoil.errorreporting.testsuite.SearchTest"/>
+      </classes>
+ 	</test> 
+</suite> 

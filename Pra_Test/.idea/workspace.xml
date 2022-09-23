@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c0d108f-b3f8-41ef-98dc-d1f96cc18944" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1PXZMi5C9oMqS2xMN98fwBsShuX" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com.tech.rema.base" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yash\IdeaProjects\REMA\src\main\java\com.tech.rema.base" />
+      <recent name="C:\Users\Yash\IdeaProjects\REMA\src\main\resources" />
+      <recent name="C:\Users\Yash\IdeaProjects\REMA\src\test\java" />
+      <recent name="C:\Users\Yash\IdeaProjects\REMA\src\main\resources\App" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yash\IdeaProjects\REMA\src\main\java\com.tech.rema.base" />
+      <recent name="C:\Users\Yash\IdeaProjects\REMA\src\main\resources\com.tech.rema.base" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Yash/IdeaProjects/REMA/testng.xml">
+    <configuration name="C:/Users/Yash/IdeaProjects/REMA/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="REMA" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="REMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech.rema.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tech.rema.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.tech.rema.testcase.HomePage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePage.bottom_select" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="REMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech.rema.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tech.rema.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.tech.rema.testcase.HomePage" />
+      <option name="METHOD_NAME" value="bottom_select" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="REMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech.rema.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tech.rema.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.tech.rema.testcase.TC_Login" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectPlace.toggleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="REMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech.rema.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tech.rema.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.tech.rema.testcase.TC_SelectPlace" />
+      <option name="METHOD_NAME" value="toggleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Yash/IdeaProjects/REMA/testng.xml" />
+        <item itemvalue="TestNG.HomePage.bottom_select" />
+        <item itemvalue="TestNG.HomePage" />
+        <item itemvalue="TestNG.SelectPlace.toggleTest" />
+        <item itemvalue="TestNG.Login.loginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c0d108f-b3f8-41ef-98dc-d1f96cc18944" name="Default Changelist" comment="" />
+      <created>1566022356350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566022356350</updated>
+    </task>
+    <servers />
+  </component>
+</project>
